@@ -1,0 +1,312 @@
+2026-05-03 02:51:10 | ERROR    | Fix the configuration errors above and try again.
+2026-05-03 03:02:04 | ERROR    | Fix the configuration errors above and try again.
+2026-05-03 03:02:54 | INFO     | [QUEUE] Selected 1 video(s) for upload:
+2026-05-03 03:02:54 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:02:54 | INFO     | (Dry run -- no uploads will be performed)
+2026-05-03 03:03:42 | INFO     | [QUEUE] Selected 1 video(s) for upload:
+2026-05-03 03:03:42 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:03:42 | INFO     | ============================================================
+2026-05-03 03:03:42 | INFO     | Processing [1/1]: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:03:42 | INFO     | ============================================================
+2026-05-03 03:03:42 | INFO     | 
+2026-05-03 03:03:42 | INFO     | [YT] YouTube Upload
+2026-05-03 03:03:42 | INFO     | ----------------------------------------
+2026-05-03 03:03:42 | INFO     | [>>] Uploading to YouTube: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:03:42 | INFO     |   File: 16 की उम्र में ये सब कैसे कर लेते हो_.mp4 (6.0 MB)
+2026-05-03 03:03:42 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:03:42 | INFO     | Starting YouTube OAuth flow...
+2026-05-03 03:15:24 | INFO     | [QUEUE] Selected 1 video(s) for upload:
+2026-05-03 03:15:24 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:15:24 | INFO     | (Dry run -- no uploads will be performed)
+2026-05-03 03:15:43 | INFO     | [QUEUE] Selected 1 video(s) for upload:
+2026-05-03 03:15:43 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:15:43 | INFO     | ============================================================
+2026-05-03 03:15:43 | INFO     | Processing [1/1]: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:15:43 | INFO     | ============================================================
+2026-05-03 03:15:43 | INFO     | 
+2026-05-03 03:15:43 | INFO     | [YT] YouTube Upload
+2026-05-03 03:15:43 | INFO     | ----------------------------------------
+2026-05-03 03:15:43 | INFO     | [>>] Uploading to YouTube: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:15:43 | INFO     |   File: 16 की उम्र में ये सब कैसे कर लेते हो_.mp4 (6.0 MB)
+2026-05-03 03:15:43 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:15:43 | INFO     | Starting YouTube OAuth flow...
+2026-05-03 03:16:22 | INFO     | YouTube token saved.
+2026-05-03 03:16:22 | INFO     | Uploading chunk...
+2026-05-03 03:16:40 | INFO     | [OK] YouTube upload complete! Video ID: TPv5_9NPnb4
+2026-05-03 03:16:40 | INFO     |   -> https://www.youtube.com/watch?v=TPv5_9NPnb4
+2026-05-03 03:16:40 | INFO     | [OK] YouTube: SUCCESS (ID: TPv5_9NPnb4)
+2026-05-03 03:16:40 | DEBUG    |   Waiting 15s before Instagram upload...
+2026-05-03 03:16:55 | INFO     | 
+2026-05-03 03:16:55 | INFO     | [IG] Instagram Upload
+2026-05-03 03:16:55 | INFO     | ----------------------------------------
+2026-05-03 03:16:55 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:17:21 | ERROR    | Instagram login failed: Expecting value: line 1 column 1 (char 0)
+2026-05-03 03:17:21 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:17:21 | INFO     | [DONE] Upload batch complete!
+2026-05-03 03:20:24 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:20:29 | INFO     | [QUEUE] Selected 1 video(s) for upload:
+2026-05-03 03:20:29 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:20:29 | INFO     | ============================================================
+2026-05-03 03:20:29 | INFO     | Processing [1/1]: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:20:29 | INFO     | ============================================================
+2026-05-03 03:20:29 | INFO     | 
+2026-05-03 03:20:29 | INFO     | [YT] YouTube Upload
+2026-05-03 03:20:29 | INFO     | ----------------------------------------
+2026-05-03 03:20:29 | INFO     | [>>] Uploading to YouTube: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:20:29 | INFO     |   File: 16 की उम्र में ये सब कैसे कर लेते हो_.mp4 (6.0 MB)
+2026-05-03 03:20:29 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:20:29 | INFO     | Uploading chunk...
+2026-05-03 03:20:33 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:20:35 | INFO     | [OK] YouTube upload complete! Video ID: w0z8VXSytHQ
+2026-05-03 03:20:35 | INFO     |   -> https://www.youtube.com/watch?v=w0z8VXSytHQ
+2026-05-03 03:20:35 | INFO     | [OK] YouTube: SUCCESS (ID: w0z8VXSytHQ)
+2026-05-03 03:20:35 | DEBUG    |   Waiting 10s before Instagram upload...
+2026-05-03 03:20:45 | INFO     | 
+2026-05-03 03:20:45 | INFO     | [IG] Instagram Upload
+2026-05-03 03:20:45 | INFO     | ----------------------------------------
+2026-05-03 03:20:45 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:20:53 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:20:53 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:20:53 | INFO     | [DONE] Upload batch complete!
+2026-05-03 03:21:33 | INFO     | [QUEUE] Selected 1 video(s) for upload:
+2026-05-03 03:21:33 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:21:33 | INFO     | ============================================================
+2026-05-03 03:21:33 | INFO     | Processing [1/1]: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:21:33 | INFO     | ============================================================
+2026-05-03 03:21:33 | INFO     | 
+2026-05-03 03:21:33 | INFO     | [YT] YouTube Upload
+2026-05-03 03:21:33 | INFO     | ----------------------------------------
+2026-05-03 03:21:33 | INFO     | [>>] Uploading to YouTube: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:21:33 | INFO     |   File: 16 की उम्र में ये सब कैसे कर लेते हो_.mp4 (6.0 MB)
+2026-05-03 03:21:33 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:21:33 | INFO     | Uploading chunk...
+2026-05-03 03:21:39 | INFO     | [OK] YouTube upload complete! Video ID: HmMwYj1K9wo
+2026-05-03 03:21:39 | INFO     |   -> https://www.youtube.com/watch?v=HmMwYj1K9wo
+2026-05-03 03:21:39 | INFO     | [OK] YouTube: SUCCESS (ID: HmMwYj1K9wo)
+2026-05-03 03:21:39 | DEBUG    |   Waiting 7s before Instagram upload...
+2026-05-03 03:21:46 | INFO     | 
+2026-05-03 03:21:46 | INFO     | [IG] Instagram Upload
+2026-05-03 03:21:46 | INFO     | ----------------------------------------
+2026-05-03 03:21:46 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:21:53 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:21:53 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:21:53 | INFO     | [DONE] Upload batch complete!
+2026-05-03 03:23:01 | INFO     | [QUEUE] Selected 1 video(s) for upload:
+2026-05-03 03:23:01 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:23:01 | INFO     | ============================================================
+2026-05-03 03:23:01 | INFO     | Processing [1/1]: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:23:01 | INFO     | ============================================================
+2026-05-03 03:23:01 | INFO     | 
+2026-05-03 03:23:01 | INFO     | [YT] YouTube Upload
+2026-05-03 03:23:01 | INFO     | ----------------------------------------
+2026-05-03 03:23:01 | INFO     | [>>] Uploading to YouTube: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:23:01 | INFO     |   File: 16 की उम्र में ये सब कैसे कर लेते हो_.mp4 (6.0 MB)
+2026-05-03 03:23:01 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:23:01 | INFO     | Uploading chunk...
+2026-05-03 03:23:10 | INFO     | [OK] YouTube upload complete! Video ID: GVyjYfzF3s4
+2026-05-03 03:23:10 | INFO     |   -> https://www.youtube.com/watch?v=GVyjYfzF3s4
+2026-05-03 03:23:10 | INFO     | [OK] YouTube: SUCCESS (ID: GVyjYfzF3s4)
+2026-05-03 03:23:10 | DEBUG    |   Waiting 9s before Instagram upload...
+2026-05-03 03:23:19 | INFO     | 
+2026-05-03 03:23:19 | INFO     | [IG] Instagram Upload
+2026-05-03 03:23:19 | INFO     | ----------------------------------------
+2026-05-03 03:23:19 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:23:28 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:23:28 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:23:28 | INFO     | [DONE] Upload batch complete!
+2026-05-03 03:24:48 | INFO     | [QUEUE] Selected 39 video(s) for upload:
+2026-05-03 03:24:48 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:24:48 | INFO     |    2. A Desert Romance_ Cinematic Love Story (4.9 MB)
+2026-05-03 03:24:48 | INFO     |    3. Check your pockets! (Absurd Prank) (13.0 MB)
+2026-05-03 03:24:48 | INFO     |    4. First Try! Did you see that_ (9.3 MB)
+2026-05-03 03:24:48 | INFO     |    5. High-Energy Live Performance Highlights (6.3 MB)
+2026-05-03 03:24:48 | INFO     |    6. Imran Khan's Smooth Verse Flow (4.0 MB)
+2026-05-03 03:24:48 | INFO     |    7. Intimate Moments_ Love in the Shadows (4.9 MB)
+2026-05-03 03:24:48 | INFO     |    8. Intimate Moments_ The Story of Us (4.9 MB)
+2026-05-03 03:24:48 | INFO     |    9. Security is coming! Prank gone too far_ (9.2 MB)
+2026-05-03 03:24:48 | INFO     |    10. Shadows & Secrets (4.5 MB)
+2026-05-03 03:24:48 | INFO     |    11. She accused me of stealing money! (9.4 MB)
+2026-05-03 03:24:48 | INFO     |    12. Stunning Silhouettes_ Dramatic Visuals (4.0 MB)
+2026-05-03 03:24:48 | INFO     |    13. The 'Money Glitch' Prank Goes Wrong (Social Experiment) (10.0 MB)
+2026-05-03 03:24:48 | INFO     |    14. The 'Money Glitch' Prank Goes Wrong (10.0 MB)
+2026-05-03 03:24:48 | INFO     |    15. The 'Money Scam' Prank Gone Wrong_ (9.3 MB)
+2026-05-03 03:24:48 | INFO     |    16. The Atmospheric Outro (0.3 MB)
+2026-05-03 03:24:48 | INFO     |    17. The Emotional Bridge of Bewafa (4.0 MB)
+2026-05-03 03:24:48 | INFO     |    18. The Iconic Look_ Imran Khan (4.8 MB)
+2026-05-03 03:24:48 | INFO     |    19. The Iconic Opening of Imran Khan's 'Bewafa' (4.5 MB)
+2026-05-03 03:24:48 | INFO     |    20. The Most Viral Chorus Moment (3.7 MB)
+2026-05-03 03:24:48 | INFO     |    21. Too Slow! The $100 Prank (12.2 MB)
+2026-05-03 03:24:48 | INFO     |    22. Untold Moment_ Must-See Clip from a Longer Video (3.3 MB)
+2026-05-03 03:24:48 | INFO     |    23. Why is this guy acting like Walter White_! (9.2 MB)
+2026-05-03 03:24:48 | INFO     |    24. You owe me $200! (Gaslighting Prank) (10.1 MB)
+2026-05-03 03:24:48 | INFO     |    25. एजुकेशन लोन लेकर विदेश क्यों जा रहे हो भाई_ (5.7 MB)
+2026-05-03 03:24:48 | INFO     |    26. कमरे में घुसते ही होश उड़ गए_ ये क्या सीन था_ (5.1 MB)
+2026-05-03 03:24:48 | INFO     |    27. कौन टिकेगा सबसे आखिर तक_ _ (12.2 MB)
+2026-05-03 03:24:48 | INFO     |    28. धूप में तैरने का बुरा हाल! (15.6 MB)
+2026-05-03 03:24:48 | INFO     |    29. पहला विकेट गिर गया! अम्मा आउट! _ (11.7 MB)
+2026-05-03 03:24:48 | INFO     |    30. पार्टी के दौरान अचानक डरावना मोड़ आया (7.6 MB)
+2026-05-03 03:24:48 | INFO     |    31. पार्टी में ऐसा दोस्त जो सबको परेशान कर दे (5.2 MB)
+2026-05-03 03:24:48 | INFO     |    32. पार्टी में ये क्या हो गया_ नशे में धुत्त बंदा! (4.7 MB)
+2026-05-03 03:24:48 | INFO     |    33. पीयूष ने हार मान ली_ हैरान रह जाओगे! _ (16.3 MB)
+2026-05-03 03:24:48 | INFO     |    34. पूरी फैमिली का 24 घंटे का पूल चैलेंज!_ (11.1 MB)
+2026-05-03 03:24:48 | INFO     |    35. बर्थडे पार्टी में पिस्तौल_ ये लोग क्या कर रहे थे! (4.7 MB)
+2026-05-03 03:24:48 | INFO     |    36. मालदीव की यादें और बेहतरीन संगीत (6.4 MB)
+2026-05-03 03:24:48 | INFO     |    37. मालदीव के बीच पर सनम बैंड का जादू (6.4 MB)
+2026-05-03 03:24:48 | INFO     |    38. ‘गुलाबी आँखें’ का मैजिकल वर्ज़न (6.4 MB)
+2026-05-03 03:24:48 | INFO     |    39. ‘तुझ पे फिदा’ - भावुक और मधुर पल (6.4 MB)
+2026-05-03 03:24:48 | INFO     | ============================================================
+2026-05-03 03:24:48 | INFO     | Processing [1/39]: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:24:48 | INFO     | ============================================================
+2026-05-03 03:24:48 | INFO     | 
+2026-05-03 03:24:48 | INFO     | [YT] YouTube Upload
+2026-05-03 03:24:48 | INFO     | ----------------------------------------
+2026-05-03 03:24:48 | INFO     | [>>] Uploading to YouTube: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:24:48 | INFO     |   File: 16 की उम्र में ये सब कैसे कर लेते हो_.mp4 (6.0 MB)
+2026-05-03 03:24:48 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:24:48 | INFO     | Uploading chunk...
+2026-05-03 03:24:57 | INFO     | [OK] YouTube upload complete! Video ID: c1b1AKvWvwA
+2026-05-03 03:24:57 | INFO     |   -> https://www.youtube.com/watch?v=c1b1AKvWvwA
+2026-05-03 03:24:57 | INFO     | [OK] YouTube: SUCCESS (ID: c1b1AKvWvwA)
+2026-05-03 03:24:57 | DEBUG    |   Waiting 5s before Instagram upload...
+2026-05-03 03:25:02 | INFO     | 
+2026-05-03 03:25:02 | INFO     | [IG] Instagram Upload
+2026-05-03 03:25:02 | INFO     | ----------------------------------------
+2026-05-03 03:25:02 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:25:10 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:25:10 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:25:10 | INFO     | 
+[WAIT] Waiting 48s before next video...
+
+2026-05-03 03:25:58 | INFO     | ============================================================
+2026-05-03 03:25:58 | INFO     | Processing [2/39]: A Desert Romance_ Cinematic Love Story
+2026-05-03 03:25:58 | INFO     | ============================================================
+2026-05-03 03:25:58 | INFO     | 
+2026-05-03 03:25:58 | INFO     | [YT] YouTube Upload
+2026-05-03 03:25:58 | INFO     | ----------------------------------------
+2026-05-03 03:25:58 | INFO     | [>>] Uploading to YouTube: A Desert Romance_ Cinematic Love Story
+2026-05-03 03:25:58 | INFO     |   File: A Desert Romance_ Cinematic Love Story.mp4 (4.9 MB)
+2026-05-03 03:25:58 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:25:58 | INFO     | Uploading chunk...
+2026-05-03 03:26:07 | INFO     | [OK] YouTube upload complete! Video ID: i0Eu5u231VE
+2026-05-03 03:26:07 | INFO     |   -> https://www.youtube.com/watch?v=i0Eu5u231VE
+2026-05-03 03:26:07 | INFO     | [OK] YouTube: SUCCESS (ID: i0Eu5u231VE)
+2026-05-03 03:26:07 | DEBUG    |   Waiting 9s before Instagram upload...
+2026-05-03 03:26:16 | INFO     | 
+2026-05-03 03:26:16 | INFO     | [IG] Instagram Upload
+2026-05-03 03:26:16 | INFO     | ----------------------------------------
+2026-05-03 03:26:16 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:26:26 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:26:26 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:26:26 | INFO     | 
+[WAIT] Waiting 40s before next video...
+
+2026-05-03 03:27:06 | INFO     | ============================================================
+2026-05-03 03:27:06 | INFO     | Processing [3/39]: Check your pockets! (Absurd Prank)
+2026-05-03 03:27:06 | INFO     | ============================================================
+2026-05-03 03:27:06 | INFO     | 
+2026-05-03 03:27:06 | INFO     | [YT] YouTube Upload
+2026-05-03 03:27:06 | INFO     | ----------------------------------------
+2026-05-03 03:27:06 | INFO     | [>>] Uploading to YouTube: Check your pockets! (Absurd Prank)
+2026-05-03 03:27:06 | INFO     |   File: Check your pockets! (Absurd Prank).mp4 (13.0 MB)
+2026-05-03 03:27:06 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:27:06 | INFO     | Uploading chunk...
+2026-05-03 03:27:16 | INFO     | Uploading chunk...
+2026-05-03 03:27:19 | INFO     | [OK] YouTube upload complete! Video ID: lZFVDBVOufA
+2026-05-03 03:27:19 | INFO     |   -> https://www.youtube.com/watch?v=lZFVDBVOufA
+2026-05-03 03:27:19 | INFO     | [OK] YouTube: SUCCESS (ID: lZFVDBVOufA)
+2026-05-03 03:27:19 | DEBUG    |   Waiting 6s before Instagram upload...
+2026-05-03 03:27:25 | INFO     | 
+2026-05-03 03:27:25 | INFO     | [IG] Instagram Upload
+2026-05-03 03:27:25 | INFO     | ----------------------------------------
+2026-05-03 03:27:25 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:27:34 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:27:34 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:27:34 | INFO     | 
+[WAIT] Waiting 30s before next video...
+
+2026-05-03 03:28:09 | INFO     | [QUEUE] Selected 39 video(s) for upload:
+2026-05-03 03:28:09 | INFO     |    1. 16 की उम्र में ये सब कैसे कर लेते हो_ (6.0 MB)
+2026-05-03 03:28:09 | INFO     |    2. A Desert Romance_ Cinematic Love Story (4.9 MB)
+2026-05-03 03:28:09 | INFO     |    3. Check your pockets! (Absurd Prank) (13.0 MB)
+2026-05-03 03:28:09 | INFO     |    4. First Try! Did you see that_ (9.3 MB)
+2026-05-03 03:28:09 | INFO     |    5. High-Energy Live Performance Highlights (6.3 MB)
+2026-05-03 03:28:09 | INFO     |    6. Imran Khan's Smooth Verse Flow (4.0 MB)
+2026-05-03 03:28:09 | INFO     |    7. Intimate Moments_ Love in the Shadows (4.9 MB)
+2026-05-03 03:28:09 | INFO     |    8. Intimate Moments_ The Story of Us (4.9 MB)
+2026-05-03 03:28:09 | INFO     |    9. Security is coming! Prank gone too far_ (9.2 MB)
+2026-05-03 03:28:09 | INFO     |    10. Shadows & Secrets (4.5 MB)
+2026-05-03 03:28:09 | INFO     |    11. She accused me of stealing money! (9.4 MB)
+2026-05-03 03:28:09 | INFO     |    12. Stunning Silhouettes_ Dramatic Visuals (4.0 MB)
+2026-05-03 03:28:09 | INFO     |    13. The 'Money Glitch' Prank Goes Wrong (Social Experiment) (10.0 MB)
+2026-05-03 03:28:09 | INFO     |    14. The 'Money Glitch' Prank Goes Wrong (10.0 MB)
+2026-05-03 03:28:09 | INFO     |    15. The 'Money Scam' Prank Gone Wrong_ (9.3 MB)
+2026-05-03 03:28:09 | INFO     |    16. The Atmospheric Outro (0.3 MB)
+2026-05-03 03:28:09 | INFO     |    17. The Emotional Bridge of Bewafa (4.0 MB)
+2026-05-03 03:28:09 | INFO     |    18. The Iconic Look_ Imran Khan (4.8 MB)
+2026-05-03 03:28:09 | INFO     |    19. The Iconic Opening of Imran Khan's 'Bewafa' (4.5 MB)
+2026-05-03 03:28:09 | INFO     |    20. The Most Viral Chorus Moment (3.7 MB)
+2026-05-03 03:28:09 | INFO     |    21. Too Slow! The $100 Prank (12.2 MB)
+2026-05-03 03:28:09 | INFO     |    22. Untold Moment_ Must-See Clip from a Longer Video (3.3 MB)
+2026-05-03 03:28:09 | INFO     |    23. Why is this guy acting like Walter White_! (9.2 MB)
+2026-05-03 03:28:09 | INFO     |    24. You owe me $200! (Gaslighting Prank) (10.1 MB)
+2026-05-03 03:28:09 | INFO     |    25. एजुकेशन लोन लेकर विदेश क्यों जा रहे हो भाई_ (5.7 MB)
+2026-05-03 03:28:09 | INFO     |    26. कमरे में घुसते ही होश उड़ गए_ ये क्या सीन था_ (5.1 MB)
+2026-05-03 03:28:09 | INFO     |    27. कौन टिकेगा सबसे आखिर तक_ _ (12.2 MB)
+2026-05-03 03:28:09 | INFO     |    28. धूप में तैरने का बुरा हाल! (15.6 MB)
+2026-05-03 03:28:09 | INFO     |    29. पहला विकेट गिर गया! अम्मा आउट! _ (11.7 MB)
+2026-05-03 03:28:09 | INFO     |    30. पार्टी के दौरान अचानक डरावना मोड़ आया (7.6 MB)
+2026-05-03 03:28:09 | INFO     |    31. पार्टी में ऐसा दोस्त जो सबको परेशान कर दे (5.2 MB)
+2026-05-03 03:28:09 | INFO     |    32. पार्टी में ये क्या हो गया_ नशे में धुत्त बंदा! (4.7 MB)
+2026-05-03 03:28:09 | INFO     |    33. पीयूष ने हार मान ली_ हैरान रह जाओगे! _ (16.3 MB)
+2026-05-03 03:28:09 | INFO     |    34. पूरी फैमिली का 24 घंटे का पूल चैलेंज!_ (11.1 MB)
+2026-05-03 03:28:09 | INFO     |    35. बर्थडे पार्टी में पिस्तौल_ ये लोग क्या कर रहे थे! (4.7 MB)
+2026-05-03 03:28:09 | INFO     |    36. मालदीव की यादें और बेहतरीन संगीत (6.4 MB)
+2026-05-03 03:28:09 | INFO     |    37. मालदीव के बीच पर सनम बैंड का जादू (6.4 MB)
+2026-05-03 03:28:09 | INFO     |    38. ‘गुलाबी आँखें’ का मैजिकल वर्ज़न (6.4 MB)
+2026-05-03 03:28:09 | INFO     |    39. ‘तुझ पे फिदा’ - भावुक और मधुर पल (6.4 MB)
+2026-05-03 03:28:09 | INFO     | ============================================================
+2026-05-03 03:28:09 | INFO     | Processing [1/39]: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:28:09 | INFO     | ============================================================
+2026-05-03 03:28:09 | INFO     | 
+2026-05-03 03:28:09 | INFO     | [YT] YouTube Upload
+2026-05-03 03:28:09 | INFO     | ----------------------------------------
+2026-05-03 03:28:09 | INFO     | [>>] Uploading to YouTube: 16 की उम्र में ये सब कैसे कर लेते हो_
+2026-05-03 03:28:09 | INFO     |   File: 16 की उम्र में ये सब कैसे कर लेते हो_.mp4 (6.0 MB)
+2026-05-03 03:28:09 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:28:09 | INFO     | Uploading chunk...
+2026-05-03 03:28:17 | INFO     | [OK] YouTube upload complete! Video ID: HXDxaW8iZHw
+2026-05-03 03:28:17 | INFO     |   -> https://www.youtube.com/watch?v=HXDxaW8iZHw
+2026-05-03 03:28:17 | INFO     | [OK] YouTube: SUCCESS (ID: HXDxaW8iZHw)
+2026-05-03 03:28:17 | DEBUG    |   Waiting 14s before Instagram upload...
+2026-05-03 03:28:31 | INFO     | 
+2026-05-03 03:28:31 | INFO     | [IG] Instagram Upload
+2026-05-03 03:28:31 | INFO     | ----------------------------------------
+2026-05-03 03:28:31 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:28:42 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:28:42 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:28:42 | INFO     | 
+[WAIT] Waiting 113s before next video...
+
+2026-05-03 03:30:35 | INFO     | ============================================================
+2026-05-03 03:30:35 | INFO     | Processing [2/39]: A Desert Romance_ Cinematic Love Story
+2026-05-03 03:30:35 | INFO     | ============================================================
+2026-05-03 03:30:35 | INFO     | 
+2026-05-03 03:30:35 | INFO     | [YT] YouTube Upload
+2026-05-03 03:30:35 | INFO     | ----------------------------------------
+2026-05-03 03:30:35 | INFO     | [>>] Uploading to YouTube: A Desert Romance_ Cinematic Love Story
+2026-05-03 03:30:35 | INFO     |   File: A Desert Romance_ Cinematic Love Story.mp4 (4.9 MB)
+2026-05-03 03:30:35 | INFO     |   Privacy: public | Category: 22
+2026-05-03 03:30:35 | INFO     | Uploading chunk...
+2026-05-03 03:30:45 | INFO     | [OK] YouTube upload complete! Video ID: aZNy3u0QhWc
+2026-05-03 03:30:45 | INFO     |   -> https://www.youtube.com/watch?v=aZNy3u0QhWc
+2026-05-03 03:30:45 | INFO     | [OK] YouTube: SUCCESS (ID: aZNy3u0QhWc)
+2026-05-03 03:30:45 | DEBUG    |   Waiting 11s before Instagram upload...
+2026-05-03 03:30:56 | INFO     | 
+2026-05-03 03:30:56 | INFO     | [IG] Instagram Upload
+2026-05-03 03:30:56 | INFO     | ----------------------------------------
+2026-05-03 03:30:56 | INFO     | Logging into Instagram as @raju.mistry.official...
+2026-05-03 03:31:03 | ERROR    | Instagram login failed: The password you entered is incorrect. Please try again. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2026-05-03 03:31:03 | ERROR    | [FAIL] Instagram: FAILED -- Not logged in to Instagram
+2026-05-03 03:31:03 | INFO     | 
+[WAIT] Waiting 110s before next video...
+
